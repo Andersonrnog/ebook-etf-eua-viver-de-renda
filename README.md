@@ -1,36 +1,49 @@
-owner: Andersonrnog
-repo: ebook-etf-eua-viver-de-renda
-branch: main
-message: Atualiza README com descricao do projeto e link para o ebook
-path: README.md
-content: # Estratégia para Viver de Renda com ETFs nos EUA
+# Estrategia para Viver de Renda com ETFs nos EUA
 
-Este repositó¬¬¬rio contém o ebook completo com a estratégia de montar uma carteira de ETFs nos Estados Unidos para viver de renda no longo prazo, sem destruir o capital principal em termos de poder de compra.
+Este repositorio contem o ebook completo com a estrategia de montar uma carteira de ETFs nos Estados Unidos para viver de renda no longo prazo, sem destruir o capital principal em termos de poder de compra.
 
 ## Estrutura da Carteira Proposta
 
-- 25% AGG - iShares Core U.S. Aggregate Bond ETF (renda fixa ampla)
-- 25% BND - Vanguard Total Bond Market ETF (renda fixa ampla)
-- 25% VWO - Vanguard FTSE Emerging Markets ETF (mercados emergentes)
-- 25% SCHD - Schwab U.S. Dividend Equity ETF (empresas americanas com dividendos)
+| Alocacao | ETF | Funcao |
+|---|---|---|
+| 25% | AGG | Renda fixa ampla nos EUA |
+| 25% | BND | Renda fixa ampla nos EUA |
+| 25% | VWO | Acoes de mercados emergentes |
+| 25% | SCHD | Acoes americanas com dividendos |
 
 ## Conteudo do Ebook
 
-O documento principal está em [`ebook-estrategia-etf-eua.md`](./ebook-estrategia-etf-eua.md) e aborda:
+O documento principal esta em [`ebook-estrategia-etf-eua.md`](./ebook-estrategia-etf-eua.md) e aborda:
 
 - Conceito de retorno total e taxa de retirada
-- Contexto atual de juros nos EUA e câmbio BRL/USD
+- Contexto atual de juros nos EUA e cambio BRL/USD
 - Estudo detalhado de cada ETF (AGG, BND, VWO, SCHD)
-- Estratégia operacional em linguagem simples
-- Impacto da taxa de juros e do câmbio na estratégia
+- Estrategia operacional em linguagem simples
+- Impacto da taxa de juros e do cambio na estrategia
 - Consideracoes finais
+
+## Sumario
+
+Veja o [`SUMARIO.md`](./SUMARIO.md) para niveis de secoes e links diretos para cada topico do ebook.
+
+## Arquivos
+
+- [`ebook-estrategia-etf-eua.md`](./ebook-estrategia-etf-eua.md) - Ebook completo
+- [`SUMARIO.md`](./SUMARIO.md) - Sumario com links
+- [`AVISO_LEGAL.md`](./AVISO_LEGAL.md) - Aviso legal
+- [`LICENSE`](./LICENSE) - Licenca MIT
 
 ## Como Usar
 
 1. Leia o ebook completo em `ebook-estrategia-etf-eua.md`.
-2. Use a estratégia como base para montar sua própria carteira de ETFs.
-3. Ajuste a taxa de retirada e a alocao conforme seu perfil e objetivos.
+2. Consulte o sumario em `SUMARIO.md` para niveis de secoes.
+3. Use a estrategia como base para montar sua propria carteira de ETFs.
+4. Ajuste a taxa de retirada e a alocacao conforme seu perfil e objetivos.
+
+## Aviso Importante
+
+Este material e fornecido apenas para fins educacionais e informativos. Nao constitui recomendacao de investimento. Consulte o [`AVISO_LEGAL.md`](./AVISO_LEGAL.md) para mais detalhes.
 
 ## Licenca
 
-Este material é fornecido apenas para fins educacionais e informativos. Nao constitui recomendacao de investimento.
+Este projeto esta licenciado sob a Licenca MIT. Veja o arquivo [`LICENSE`](./LICENSE) para detalhes.
